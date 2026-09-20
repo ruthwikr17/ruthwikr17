@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ruthvik Reddy 👋
+# Hi, I'm Ruthvik 👋
 
 ### AI/ML Engineer • Full-Stack Builder • Deep-diving into GenAI, RAG & Agents
 
